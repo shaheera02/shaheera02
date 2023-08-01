@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheera02&label=Profile%20views&color=0e75b6&style=flat" alt="shaheera02" /> </p>
 
-- 🔭 I’m currently working on **Elderly**
+- 🔭 I’m currently working on **PriceWise**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flask**
 
 - 📫 How to reach me **shaheerafatima02@gmail.com**
 
